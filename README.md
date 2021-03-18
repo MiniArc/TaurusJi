@@ -1,4 +1,4 @@
-### Hey👋,  I’m a Frontend Developer
+### Hey 👋, I’m a Frontend Developer
 
 **个人介绍**
 
