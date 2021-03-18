@@ -10,3 +10,5 @@
 * 📝 我的开源项目：[code-analysis](https://github.com/TaurusJi/code-anaylsis)
 
 如果你对我感兴趣⭐️，可以加我 [微信](https://github.com/TaurusJi/TaurusJi/blob/main/qrcode.jpg) 进一步交流
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaurusJi&count_private=true)
