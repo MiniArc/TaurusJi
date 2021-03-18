@@ -9,4 +9,4 @@
 * 📖 目前正在阅读：Vue3.0源码
 * 📝 我的开源项目：[code-analysis](https://github.com/TaurusJi/code-anaylsis)
 
-如果你对我感兴趣⭐️，可以加我 微信 进一步交流
+如果你对我感兴趣⭐️，可以加我 [微信](https://github.com/TaurusJi/TaurusJi/blob/main/qrcode.jpg) 进一步交流
