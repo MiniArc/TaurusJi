@@ -17,7 +17,7 @@
 <code><img height="20" src="https://github.com/TaurusJi/TaurusJi/blob/main/react.png"></code>
 
 
-**我的开源项目:**
+**我的开源项目**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaurusJi&repo=code-anaylsis)](https://github.com/TaurusJi/code-anaylsis)
 
