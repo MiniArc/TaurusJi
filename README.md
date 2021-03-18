@@ -1,7 +1,8 @@
 ### Hey👋,  I’m a Frontend Developer
 
-你好，我是一名前端开发工程师
+*个人资料*
 
+* 👨我是一名前端开发工程师
 * ⚡技术栈：JavaScript / TypeScript
 * 🍻工作经验：4年前端开发工作经验
 * 🏃学习路线：深入学习前端工程化
