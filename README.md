@@ -19,6 +19,6 @@
 
 **我的开源项目**
 
-[![Readme Card]()](https://github.com/TaurusJi/code-anaylsis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaurusJi&repo=code-anaylsis)](https://github.com/TaurusJi/code-anaylsis)
 
 如果你对我感兴趣⭐️，可以加我 [微信](https://github.com/TaurusJi/TaurusJi/blob/main/qrcode.jpg) 进一步交流
