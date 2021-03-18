@@ -3,11 +3,19 @@
 **个人介绍**
 
 * 👨 我是一名前端开发工程师
-* ⚡ 技术栈：JavaScript / TypeScript
+* ⚡ 编程语言：JavaScript / TypeScript
 * 🍻 工作经验：4年前端开发工作经验
 * 🏃 学习路线：深入学习前端工程化
 * 📖 目前正在阅读：Vue3.0源码
 * 📝 我的开源项目：[code-analysis](https://github.com/TaurusJi/code-anaylsis)
+
+**技术栈 与 开发工具:**
+
+<code><img height="20" src="https://github.com/TaurusJi/TaurusJi/blob/main/javascript.png></code>
+<code><img height="20" src="https://github.com/TaurusJi/TaurusJi/blob/main/typescript.png"></code>
+<code><img height="20" src="https://github.com/TaurusJi/TaurusJi/blob/main/vue.png"></code>
+<code><img height="20" src="https://github.com/TaurusJi/TaurusJi/blob/main/react.png"></code>
+
 
 **我的开源项目:**
 
